@@ -1,7 +1,4 @@
--- discord.gg/tboyroblox
-
-
-shared.LoaderTitle = "Đăng Ký Kênh BW_Hazen";
+shared.LoaderTitle = "BW_Hazen";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
